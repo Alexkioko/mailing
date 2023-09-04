@@ -58,7 +58,7 @@ def send_mail(s):
     :param s: list of recipient emails
     '''
     sender_email = input("Enter the email address of the sender (use gmail account)")
-    password = 'fvchusswnqfdkwdn'
+    password = input("Enter your password: ")
     port = 587 #using tls
     context = ssl.create_default_context() #create default context
 
