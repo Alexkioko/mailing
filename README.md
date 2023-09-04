@@ -1,4 +1,4 @@
-# mailing
+# Mailing
  Sending email with python
  '''
 -> Create a project that mimicks an automated mailing list.
