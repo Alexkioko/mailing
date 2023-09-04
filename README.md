@@ -1,7 +1,20 @@
 # Mailing
- Sending email with python
+ Sending the same version of an email to multiple recipients with python
  '''
 # # Installation
+
+-> In your virtual environment run the following command:
+
+    - pip install -r requirements.txt
+    
+-> Add the file containing the recipient email to the same directory as project.py
+
+-> Run the following command to run the program
+
+   - python project.py
+
+# # Project overview
+
 -> Create a project that mimicks an automated mailing list.
 
 -> The project should run from the command line interface
