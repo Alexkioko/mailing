@@ -1,6 +1,7 @@
 # Mailing
  Sending email with python
  '''
+# # Installation
 -> Create a project that mimicks an automated mailing list.
 
 -> The project should run from the command line interface
