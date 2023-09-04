@@ -1,2 +1,1 @@
-alexkioko21@yahoo.com
-alekikioko48@gmail.com
+#add recipient emails to this file
