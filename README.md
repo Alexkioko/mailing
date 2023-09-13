@@ -41,6 +41,8 @@
         
         - Content of the email (both plain and html formats)
     
-
+# #    add_attachment.py
 -> Write python script to send email with attachment
+
+-> sends both a pdf and image as attachments to your email
 
